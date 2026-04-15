@@ -1,0 +1,16 @@
+{
+  "total_games": 1,
+  "total_wins": 1,
+  "classic_games": 1,
+  "classic_wins": 1,
+  "survival_games": 0,
+  "survival_successes": 0,
+  "best_score": 538,
+  "total_score": 538,
+  "total_guesses": 2,
+  "fastest_win_seconds": 14.008,
+  "current_streak": 1,
+  "longest_streak": 1,
+  "highest_survival_level": 0,
+  "last_played": "2026-04-06T21:02:48"
+}
